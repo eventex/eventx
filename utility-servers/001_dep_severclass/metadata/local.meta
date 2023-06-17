@@ -1,0 +1,15 @@
+[server/shclustering]
+version = 8.0.3
+modtime = 1610921941.310190000
+
+[outputs/indexer_discovery%3Aindexer_group1]
+version = 8.0.3
+modtime = 1610928920.544047000
+
+[server/clustering]
+version = 8.0.3
+modtime = 1611015359.039498000
+
+[serverclass/serverClass%3A001_indexer_config]
+version = 8.1.5
+modtime = 1639506257.165824000

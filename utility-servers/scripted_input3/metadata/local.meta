@@ -1,0 +1,71 @@
+[inputs/script%3A%2F%2F.%2Fbin%2FPaloalto.sh]
+version = 8.2.1
+modtime = 1665450301.720258000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Faccessgen.sh]
+version = 8.2.1
+modtime = 1665450314.497258000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fapache.sh]
+version = 8.2.1
+modtime = 1665450327.100679000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcisco.sh]
+version = 8.2.1
+modtime = 1665450340.700737000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcisco_ironport_web.sh]
+version = 8.2.1
+modtime = 1665450350.124874000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fhistory_access.sh]
+version = 8.2.1
+modtime = 1665450368.925302000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fwindows_cef.sh]
+version = 8.2.1
+modtime = 1665450505.717741000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FwinAuthentication_security.sh]
+version = 8.2.1
+modtime = 1665450521.265953000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fnetgear.sh]
+version = 8.2.1
+modtime = 1665450531.501629000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Ftrade_entries.sh]
+version = 8.2.1
+modtime = 1665450540.812979000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fvendor_sales.sh]
+version = 8.2.1
+modtime = 1665450551.554253000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fweb_access.sh]
+version = 8.2.1
+modtime = 1665450568.949807000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcisco_firewall.sh]
+version = 8.2.1
+modtime = 1665450591.150364000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcisco_ironport_mail.sh]
+version = 8.2.1
+modtime = 1665450595.668130000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fsecure.sh]
+version = 8.2.1
+modtime = 1665450602.977848000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fsales_entries.sh]
+version = 8.2.1
+modtime = 1665450607.612661000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcisco_wsa_squid.sh]
+version = 8.2.1
+modtime = 1665450611.793972000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fiis_vmail1.sh]
+version = 8.2.1
+modtime = 1665450623.830068000
